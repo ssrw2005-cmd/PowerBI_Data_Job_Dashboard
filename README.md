@@ -42,7 +42,7 @@ Using **Power BI and DAX**, I created multiple report pages and visualizations t
 
 The home page provides navigation to the different sections of the Power BI report.
 
-![Home](images/01-home.png)
+![Home](Images/Home.png)
 
 ---
 
@@ -50,7 +50,7 @@ The home page provides navigation to the different sections of the Power BI repo
 
 An overview of the data-job market with key metrics and visualizations.
 
-![Dashboard 1](images/04-dashboard-1.png)
+![Dashboard 1](Images/Dashboard_1.png)
 
 ---
 
@@ -58,7 +58,7 @@ An overview of the data-job market with key metrics and visualizations.
 
 An interactive drill-through page that allows users to explore individual job information in more detail.
 
-![Drill Through](images/05-drill-through.png)
+![Drill Through](Images/Dashboard_1_Drill_Through.png)
 
 ---
 
@@ -66,7 +66,7 @@ An interactive drill-through page that allows users to explore individual job in
 
 Analysis of the most valuable skills and the highest-paying data roles.
 
-![Dashboard 2](images/06-dashboard-2.png)
+![Dashboard 2](Images/Dashboard_2.png)
 
 ---
 
@@ -76,25 +76,25 @@ Analysis of the most valuable skills and the highest-paying data roles.
 
 Used to compare salaries, job counts, skills, and other categorical variables.
 
-![Bar Charts](images/02-bar-charts.png)
+![Bar Charts](Images/Bar_charts.png)
 
 ### KPI Cards
 
 Used to highlight important metrics and provide a quick overview of the dataset.
 
-![Cards](images/03-cards.png)
+![Cards](Images/Cards.png)
 
 ### Line & Area Charts
 
 Used to analyze trends in data-job postings over time.
 
-![Line Charts](images/07-line-charts.png)
+![Line Charts](Images/Line_Charts.png)
 
 ### Pie / Donut Charts
 
 Used to visualize proportions such as job types, degree requirements, and other categorical distributions.
 
-![Pie Charts](images/08-pie-charts.png)
+![Pie Charts](Images/Pie_Charts.png)
 
 ---
 
