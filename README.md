@@ -76,7 +76,7 @@ Analysis of the most valuable skills and the highest-paying data roles.
 
 Used to compare salaries, job counts, skills, and other categorical variables.
 
-![Bar Charts](Images/Bar_charts.png)
+![Bar Charts](Images/Bar_Charts.png)
 
 ### KPI Cards
 
